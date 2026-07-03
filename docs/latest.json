@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
-  "notes": "首次初始化",
-  "force": false
+    "version":  "1.0.0",
+    "downloadUrl":  "https://github.com/ziyuan521542/quote-system-release/releases/download/v1.0.0/QuoteSystem-1.0.0-Setup.exe",
+    "notes":  "测试发布",
+    "force":  false
 }
