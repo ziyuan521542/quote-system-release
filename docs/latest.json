@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "downloadUrl":  "https://github.com/ziyuan521542/quote-system-release/releases/download/v1.0.0/QuoteSystem-1.0.0-Setup.exe",
+    "version":  "1.0.1",
+    "downloadUrl":  "https://github.com/ziyuan521542/quote-system-release/releases/download/v1.0.1/QuoteSystem-1.0.1-Setup.exe",
     "notes":  "更新云数据不能及时匹配问题",
     "force":  false
 }
